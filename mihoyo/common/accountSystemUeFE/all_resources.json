@@ -1,0 +1,19 @@
+{
+  "local_resources": [
+    "//at.alicdn.com/t/font_2553510_61agzg96wm8.ttf?t=1631948257467",
+    "//at.alicdn.com/t/font_2553510_61agzg96wm8.woff?t=1631948257467",
+    "t_1653293450498/src/resources/font/iconfont_3a2ba315.ttf",
+    "t_1653293450498/src/resources/font/iconfont_9ec5e40e.eot",
+    "t_1653293450498/src/resources/font/iconfont_9ec5e40e.eot#iefix",
+    "t_1653293450498/src/resources/font/iconfont_ca5d4588.svg#anticon"
+  ],
+  "external_urls": [
+    "https://b.yzcdn.cn/vant/vant-icon-f463a9.ttf",
+    "https://b.yzcdn.cn/vant/vant-icon-f463a9.woff",
+    "https://bbs.mihoyo.com/download.html",
+    "https://devlog-upload.mihoyo.com/h5/upload",
+    "https://log-upload-os.mihoyo.com/h5/upload",
+    "https://log-upload.mihoyo.com/h5/upload",
+    "https://test.account.mihoyo.com/Api/"
+  ]
+}
