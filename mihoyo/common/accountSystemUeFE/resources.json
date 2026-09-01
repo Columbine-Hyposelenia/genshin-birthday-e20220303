@@ -1,0 +1,17 @@
+{
+  "scripts": [
+    "//g.alicdn.com/sd/pointman/js/pt.js",
+    "https://s19.cnzz.com/z_stat.php?id=1274689524&web_id=1274689524",
+    "//g.alicdn.com/sd/smartCaptcha/0.0.1/index.js",
+    "//g.alicdn.com/sd/nvc/1.1.112/guide.js",
+    "https://webstatic.mihoyo.com/dora/biz/mihoyo-cn-footer/main.js",
+    "main_7e8322db5d6f5a6b4e39/vendors.js",
+    "main_7e8322db5d6f5a6b4e39/bundle.js"
+  ],
+  "styles": [
+    "favicon.ico",
+    "0_7e8322db5d6f5a6b4e39.css",
+    "bundle_7e8322db5d6f5a6b4e39.css"
+  ],
+  "images": []
+}
